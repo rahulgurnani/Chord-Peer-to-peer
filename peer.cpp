@@ -1,3 +1,7 @@
+/* Authors : 
+	Rahul Gurnani, Ashutosh Baheti */
+
+/* contains the main function and the code that executes on each node*/
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>

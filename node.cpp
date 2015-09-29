@@ -1,3 +1,6 @@
+/* Authors : 
+	Rahul Gurnani, Ashutosh Baheti */
+/* implementation of declarations in node.hxx */
 #include "node.hxx"
 
 using namespace std;

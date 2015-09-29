@@ -1,3 +1,4 @@
+/* declarations of data structures used */
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
@@ -7,7 +8,7 @@
 #define M 8
 
 using namespace std;
-
+/*info is the information of the machine */
 class info
 {
 public:
@@ -25,6 +26,7 @@ public:
 };
 
 unsigned long long oat_hash(string s);
+// Node denotes node in the network */
 class Node
 {
 public:
